@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there, I am xiaoqw 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats-xcm1115.vercel.app/api?username=xcm1115&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+🚀 Technologies
+
+![FED](https://skillicons.dev/icons?i=ts,js,html,css,react,vue,vite,webpack,tailwind)
+![BED](https://skillicons.dev/icons?i=nodejs,go,express,mongodb,mysql)
+![Other](https://skillicons.dev/icons?i=vscode,linux,bash,git,github,stackoverflow,docker,vercel,figma,md)
 
 <!--
 **xcm1115/xcm1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
